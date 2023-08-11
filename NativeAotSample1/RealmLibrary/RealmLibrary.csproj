@@ -6,9 +6,6 @@
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="Realm" Version="11.3.0" />
-	</ItemGroup>
-	<ItemGroup>
 		<ProjectReference Include="..\ClassLibrary1\ClassLibrary1.fsproj" />
 	</ItemGroup>
 </Project>
