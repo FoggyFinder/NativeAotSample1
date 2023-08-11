@@ -1,0 +1,5 @@
+﻿<Directives>
+	<Application>
+		<Assembly Name="RealmLibrary" Dynamic="Required All" />
+	</Application>
+</Directives>
